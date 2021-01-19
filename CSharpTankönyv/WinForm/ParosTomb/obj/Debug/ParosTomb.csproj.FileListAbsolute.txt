@@ -1,0 +1,7 @@
+D:\!PROJECTS\repos\MyRepo\CSharpTankönyv\WinForm\ParosTomb\bin\Debug\ParosTomb.exe.config
+D:\!PROJECTS\repos\MyRepo\CSharpTankönyv\WinForm\ParosTomb\bin\Debug\ParosTomb.exe
+D:\!PROJECTS\repos\MyRepo\CSharpTankönyv\WinForm\ParosTomb\bin\Debug\ParosTomb.pdb
+D:\!PROJECTS\repos\MyRepo\CSharpTankönyv\WinForm\ParosTomb\obj\Debug\ParosTomb.csprojAssemblyReference.cache
+D:\!PROJECTS\repos\MyRepo\CSharpTankönyv\WinForm\ParosTomb\obj\Debug\ParosTomb.csproj.CoreCompileInputs.cache
+D:\!PROJECTS\repos\MyRepo\CSharpTankönyv\WinForm\ParosTomb\obj\Debug\ParosTomb.exe
+D:\!PROJECTS\repos\MyRepo\CSharpTankönyv\WinForm\ParosTomb\obj\Debug\ParosTomb.pdb
