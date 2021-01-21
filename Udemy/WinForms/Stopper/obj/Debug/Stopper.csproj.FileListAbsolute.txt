@@ -1,0 +1,10 @@
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\bin\Debug\Stopper.exe.config
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\bin\Debug\Stopper.exe
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\bin\Debug\Stopper.pdb
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\obj\Debug\Stopper.csprojAssemblyReference.cache
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\obj\Debug\Stopper.Stopper.resources
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\obj\Debug\Stopper.Properties.Resources.resources
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\obj\Debug\Stopper.csproj.GenerateResource.cache
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\obj\Debug\Stopper.csproj.CoreCompileInputs.cache
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\obj\Debug\Stopper.exe
+C:\Users\lylei\source\MyRepo\Udemy\WinForms\Stopper\obj\Debug\Stopper.pdb
