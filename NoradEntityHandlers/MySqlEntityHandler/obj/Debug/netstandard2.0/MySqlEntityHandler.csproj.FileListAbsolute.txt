@@ -1,0 +1,9 @@
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\bin\Debug\netstandard2.0\MySqlEntityHandler.deps.json
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\bin\Debug\netstandard2.0\MySqlEntityHandler.dll
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\bin\Debug\netstandard2.0\MySqlEntityHandler.pdb
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\obj\Debug\netstandard2.0\MySqlEntityHandler.csprojAssemblyReference.cache
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\obj\Debug\netstandard2.0\MySqlEntityHandler.AssemblyInfoInputs.cache
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\obj\Debug\netstandard2.0\MySqlEntityHandler.AssemblyInfo.cs
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\obj\Debug\netstandard2.0\MySqlEntityHandler.csproj.CoreCompileInputs.cache
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\obj\Debug\netstandard2.0\MySqlEntityHandler.dll
+C:\Users\lylei\source\MyRepo\NoradEntityHandlers\MySqlEntityHandler\obj\Debug\netstandard2.0\MySqlEntityHandler.pdb
